@@ -77,5 +77,6 @@ The findings are based on the available dataset and do not establish causal rela
 
 - `Karen_Acharya_Healthcare_Data_Analytics.ipynb` — Jupyter Notebook containing the analysis.
 - `1776250375-P2-Healthcare Analytics for Doctor Visits.csv` — Dataset used for the analysis.
-- 
+- `Karen_Acharya_VOIS_DIY_Project_PPT` — Dataset
+- `README.md` — Project documentation.
 
