@@ -1,7 +1,14 @@
 # Healthcare_Analytics_for_Doctor_Visits
-VOIS DIY Project
-# Healthcare Analytics for Doctor Visits
+## VOIS DIY Project
+## Edunet Foundation
 
+**Student:** Karen Acharya
+
+**AICTE STU ID:** STU6a66eedfe85331785130719
+
+**College Name:** Techno India University, Kolkata, West Bengal
+
+---
 ## 📌 Project Overview
 
 This project analyses doctor-visit patterns using Python and healthcare data. It explores how demographic characteristics, income, illness, health status, insurance coverage, reduced activity, and chronic conditions are associated with healthcare utilization.
@@ -70,9 +77,5 @@ The findings are based on the available dataset and do not establish causal rela
 
 - `Karen_Acharya_Healthcare_Data_Analytics.ipynb` — Jupyter Notebook containing the analysis.
 - `1776250375-P2-Healthcare Analytics for Doctor Visits.csv` — Dataset used for the analysis.
+- 
 
-## 👩‍💻 Author
-
-**Karen Acharya**
-
-Healthcare Data Analytics Project using Python.
